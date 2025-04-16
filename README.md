@@ -7,6 +7,8 @@ This project covers the process of attaching a new disk to an AWS EC2 instance, 
 ---
 
 ## Steps Taken
+![Screenshot (251)](https://github.com/user-attachments/assets/3ee76f8f-6b30-40a4-a187-fe3d1f485e88)
+![Screenshot (253)](https://github.com/user-attachments/assets/94b44663-ef51-4884-9963-ae79417b0af1)
 
 ### 1. **List Available Disks**
 The first step was to list all available disks and partitions to confirm that the new disk (`/dev/nvme1n1`) was available for partitioning.
